@@ -1,0 +1,13 @@
+DELAY 1000
+GUI
+DELAY 250
+STRING chrome
+DELAY 250
+ENTER
+DELAY 750
+CTRL l
+DELAY 100
+STRING https://www.whitescreen.online/blue-screen-of-death-windows/#google_vignette
+ENTER
+DELAY 2000
+STRING f
