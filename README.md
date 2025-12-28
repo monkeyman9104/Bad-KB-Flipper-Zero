@@ -1,8 +1,8 @@
 # Bad-KB-Flipper-Zero
-Ducky script for trolls and other stuff
+flipper zero Bad KB scripts for Android, Chrome, and Windows.
 
 # Install Bad KB
-download the file/files, then import it into the flippers Bad KB
+download the file/files, then import it into the flippers Bad KB.
 
 # Install Passsword
 Download the file, then open the .txt put the password that you need
